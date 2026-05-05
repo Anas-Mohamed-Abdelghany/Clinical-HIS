@@ -14,17 +14,17 @@ A professional, data-driven **Hospital Information System (HIS)** specifically d
 ### 🖥️ Dashboard Views
 | Overview | Program Performance |
 | :---: | :---: |
-| ![Dashboard](media/Dashboard.png) | ![Dashboard 2](media/Dashboard2.png) |
+| ![Dashboard](Media/Dashboard.png) | ![Dashboard 2](Media/Dashboard2.png) |
 
 ### 🛠️ Maintenance & 📋 Inventory
 | Maintenance Management | Work Order Tracking | Equipment Inventory |
 | :---: | :---: | :---: |
-| ![Maintenance](media/M.png) | ![Maintenance 2](media/M2.png) | ![Inventory](media/EQ.png) |
+| ![Maintenance](Media/M.png) | ![Maintenance 2](Media/M2.png) | ![Inventory](Media/EQ.png) |
 
 ### 📈 Reliability Analysis
 | Reliability Overview | Failure Analysis |
 | :---: | :---: |
-| ![Reliability](media/RA.png) | ![Reliability 2](media/RA2.png) |
+| ![Reliability](Media/RA.png) | ![Reliability 2](Media/RA2.png) |
 
 ---
 
@@ -98,6 +98,7 @@ A professional, data-driven **Hospital Information System (HIS)** specifically d
 
 ```text
 Clinical-HIS/
+├── Media/           # Project screenshots and assets
 ├── src/
 │   ├── components/      # Reusable UI components
 │   ├── data/            # Mock data and constants
